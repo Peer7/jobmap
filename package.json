@@ -1,0 +1,13 @@
+{
+  "name": "jobmap",
+  "version": "0.1.0",
+  "description": "follow us @Peer7jobmap",
+  "main": "index.js",
+  "repository": "https://github.com/peer7/jobmap",
+  "author": "peer7.bid/contributors",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@vue/cli": "^3.0.0-rc.10"
+  }
+}
